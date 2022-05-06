@@ -1,0 +1,2 @@
+# GateAutomationKiCAD
+Elektronika do GateAutomation
