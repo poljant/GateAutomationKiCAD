@@ -1,0 +1,332 @@
+** Drc report for /home/jant/KiCAD/PROJEKTY/BRAMA/BRAMA.kicad_pcb **
+** Created on 2022-04-08 23:08:07 **
+
+** Found 82 DRC violations **
+[silk_overlap]: Opisy nakładają się
+    Rule: ograniczenia w konfiguracji płytki dla opisów; Severity: warning
+    @(219,0750 mm, 80,0100 mm): Linia na Górna opisowa
+    @(219,0750 mm, 80,0100 mm): Linia na Górna opisowa
+[silk_overlap]: Opisy nakładają się
+    Rule: ograniczenia w konfiguracji płytki dla opisów; Severity: warning
+    @(219,0750 mm, 80,0100 mm): Linia na Górna opisowa
+    @(226,6950 mm, 90,1700 mm): Linia na Górna opisowa
+[silk_overlap]: Opisy nakładają się
+    Rule: ograniczenia w konfiguracji płytki dla opisów; Severity: warning
+    @(219,0750 mm, 80,0100 mm): Linia na Górna opisowa
+    @(220,3450 mm, 90,1700 mm): Linia na Górna opisowa
+[silk_overlap]: Opisy nakładają się
+    Rule: ograniczenia w konfiguracji płytki dla opisów; Severity: warning
+    @(219,0750 mm, 80,0100 mm): Linia na Górna opisowa
+    @(226,6950 mm, 80,0100 mm): Linia na Górna opisowa
+[silk_overlap]: Opisy nakładają się
+    Rule: ograniczenia w konfiguracji płytki dla opisów; Severity: warning
+    @(219,0750 mm, 80,0100 mm): Linia na Górna opisowa
+    @(226,6950 mm, 90,1700 mm): Linia na Górna opisowa
+[silk_overlap]: Opisy nakładają się
+    Rule: ograniczenia w konfiguracji płytki dla opisów; Severity: warning
+    @(219,0750 mm, 80,0100 mm): Linia na Górna opisowa
+    @(219,0750 mm, 90,1700 mm): Linia na Górna opisowa
+[silk_overlap]: Opisy nakładają się
+    Rule: ograniczenia w konfiguracji płytki dla opisów; Severity: warning
+    @(219,0750 mm, 80,0100 mm): Linia na Górna opisowa
+    @(219,0750 mm, 69,8500 mm): Linia na Górna opisowa
+[silk_overlap]: Opisy nakładają się
+    Rule: ograniczenia w konfiguracji płytki dla opisów; Severity: warning
+    @(226,6950 mm, 90,1700 mm): Linia na Górna opisowa
+    @(226,6950 mm, 100,3300 mm): Linia na Górna opisowa
+[silk_overlap]: Opisy nakładają się
+    Rule: ograniczenia w konfiguracji płytki dla opisów; Severity: warning
+    @(226,6950 mm, 90,1700 mm): Linia na Górna opisowa
+    @(226,6950 mm, 90,1700 mm): Linia na Górna opisowa
+[silk_overlap]: Opisy nakładają się
+    Rule: ograniczenia w konfiguracji płytki dla opisów; Severity: warning
+    @(226,6950 mm, 90,1700 mm): Linia na Górna opisowa
+    @(226,1870 mm, 85,0900 mm): Oznaczenie 'J9'
+[silk_overlap]: Opisy nakładają się
+    Rule: ograniczenia w konfiguracji płytki dla opisów; Severity: warning
+    @(226,6950 mm, 90,1700 mm): Linia na Górna opisowa
+    @(226,6950 mm, 80,0100 mm): Linia na Górna opisowa
+[silk_overlap]: Opisy nakładają się
+    Rule: ograniczenia w konfiguracji płytki dla opisów; Severity: warning
+    @(220,3450 mm, 90,1700 mm): Linia na Górna opisowa
+    @(220,3450 mm, 100,3300 mm): Linia na Górna opisowa
+[silk_overlap]: Opisy nakładają się
+    Rule: ograniczenia w konfiguracji płytki dla opisów; Severity: warning
+    @(220,3450 mm, 90,1700 mm): Linia na Górna opisowa
+    @(226,6950 mm, 90,1700 mm): Linia na Górna opisowa
+[silk_overlap]: Opisy nakładają się
+    Rule: ograniczenia w konfiguracji płytki dla opisów; Severity: warning
+    @(220,3450 mm, 90,1700 mm): Linia na Górna opisowa
+    @(220,3450 mm, 80,0100 mm): Linia na Górna opisowa
+[silk_overlap]: Opisy nakładają się
+    Rule: ograniczenia w konfiguracji płytki dla opisów; Severity: warning
+    @(220,3450 mm, 100,3300 mm): Linia na Górna opisowa
+    @(226,6950 mm, 100,3300 mm): Linia na Górna opisowa
+[silk_overlap]: Opisy nakładają się
+    Rule: ograniczenia w konfiguracji płytki dla opisów; Severity: warning
+    @(220,3450 mm, 100,3300 mm): Linia na Górna opisowa
+    @(219,0750 mm, 90,1700 mm): Linia na Górna opisowa
+[silk_overlap]: Opisy nakładają się
+    Rule: ograniczenia w konfiguracji płytki dla opisów; Severity: warning
+    @(220,3450 mm, 100,3300 mm): Linia na Górna opisowa
+    @(220,3450 mm, 110,4900 mm): Linia na Górna opisowa
+[silk_overlap]: Opisy nakładają się
+    Rule: ograniczenia w konfiguracji płytki dla opisów; Severity: warning
+    @(219,0750 mm, 100,3300 mm): Linia na Górna opisowa
+    @(226,6950 mm, 100,3300 mm): Linia na Górna opisowa
+[silk_overlap]: Opisy nakładają się
+    Rule: ograniczenia w konfiguracji płytki dla opisów; Severity: warning
+    @(219,0750 mm, 100,3300 mm): Linia na Górna opisowa
+    @(219,0750 mm, 100,3300 mm): Linia na Górna opisowa
+[silk_overlap]: Opisy nakładają się
+    Rule: ograniczenia w konfiguracji płytki dla opisów; Severity: warning
+    @(219,0750 mm, 100,3300 mm): Linia na Górna opisowa
+    @(220,3450 mm, 110,4900 mm): Linia na Górna opisowa
+[silk_overlap]: Opisy nakładają się
+    Rule: ograniczenia w konfiguracji płytki dla opisów; Severity: warning
+    @(219,0750 mm, 100,3300 mm): Linia na Górna opisowa
+    @(226,6950 mm, 110,4900 mm): Linia na Górna opisowa
+[silk_overlap]: Opisy nakładają się
+    Rule: ograniczenia w konfiguracji płytki dla opisów; Severity: warning
+    @(226,6950 mm, 100,3300 mm): Linia na Górna opisowa
+    @(226,6950 mm, 100,3300 mm): Linia na Górna opisowa
+[silk_overlap]: Opisy nakładają się
+    Rule: ograniczenia w konfiguracji płytki dla opisów; Severity: warning
+    @(226,6950 mm, 100,3300 mm): Linia na Górna opisowa
+    @(219,0750 mm, 90,1700 mm): Linia na Górna opisowa
+[silk_overlap]: Opisy nakładają się
+    Rule: ograniczenia w konfiguracji płytki dla opisów; Severity: warning
+    @(226,6950 mm, 100,3300 mm): Linia na Górna opisowa
+    @(226,6950 mm, 110,4900 mm): Linia na Górna opisowa
+[silk_overlap]: Opisy nakładają się
+    Rule: ograniczenia w konfiguracji płytki dla opisów; Severity: warning
+    @(226,6950 mm, 90,1700 mm): Linia na Górna opisowa
+    @(219,0750 mm, 90,1700 mm): Linia na Górna opisowa
+[silk_overlap]: Opisy nakładają się
+    Rule: ograniczenia w konfiguracji płytki dla opisów; Severity: warning
+    @(219,0750 mm, 90,1700 mm): Linia na Górna opisowa
+    @(226,6950 mm, 100,3300 mm): Linia na Górna opisowa
+[silk_overlap]: Opisy nakładają się
+    Rule: ograniczenia w konfiguracji płytki dla opisów; Severity: warning
+    @(219,0750 mm, 90,1700 mm): Linia na Górna opisowa
+    @(219,0750 mm, 90,1700 mm): Linia na Górna opisowa
+[silk_overlap]: Opisy nakładają się
+    Rule: ograniczenia w konfiguracji płytki dla opisów; Severity: warning
+    @(219,0750 mm, 90,1700 mm): Linia na Górna opisowa
+    @(219,0750 mm, 100,3300 mm): Linia na Górna opisowa
+[silk_overlap]: Opisy nakładają się
+    Rule: ograniczenia w konfiguracji płytki dla opisów; Severity: warning
+    @(226,6950 mm, 80,0100 mm): Linia na Górna opisowa
+    @(226,6950 mm, 80,0100 mm): Linia na Górna opisowa
+[silk_overlap]: Opisy nakładają się
+    Rule: ograniczenia w konfiguracji płytki dla opisów; Severity: warning
+    @(226,6950 mm, 80,0100 mm): Linia na Górna opisowa
+    @(226,6950 mm, 69,8500 mm): Linia na Górna opisowa
+[silk_overlap]: Opisy nakładają się
+    Rule: ograniczenia w konfiguracji płytki dla opisów; Severity: warning
+    @(226,6950 mm, 80,0100 mm): Linia na Górna opisowa
+    @(219,0750 mm, 69,8500 mm): Linia na Górna opisowa
+[silk_overlap]: Opisy nakładają się
+    Rule: ograniczenia w konfiguracji płytki dla opisów; Severity: warning
+    @(226,6950 mm, 80,0100 mm): Linia na Górna opisowa
+    @(220,3450 mm, 80,0100 mm): Linia na Górna opisowa
+[silk_overlap]: Opisy nakładają się
+    Rule: ograniczenia w konfiguracji płytki dla opisów; Severity: warning
+    @(226,6950 mm, 80,0100 mm): Linia na Górna opisowa
+    @(219,0750 mm, 69,8500 mm): Linia na Górna opisowa
+[silk_overlap]: Opisy nakładają się
+    Rule: ograniczenia w konfiguracji płytki dla opisów; Severity: warning
+    @(226,6950 mm, 69,8500 mm): Linia na Górna opisowa
+    @(226,6950 mm, 69,8500 mm): Linia na Górna opisowa
+[silk_overlap]: Opisy nakładają się
+    Rule: ograniczenia w konfiguracji płytki dla opisów; Severity: warning
+    @(226,6950 mm, 69,8500 mm): Linia na Górna opisowa
+    @(219,0750 mm, 59,6900 mm): Linia na Górna opisowa
+[silk_overlap]: Opisy nakładają się
+    Rule: ograniczenia w konfiguracji płytki dla opisów; Severity: warning
+    @(226,6950 mm, 69,8500 mm): Linia na Górna opisowa
+    @(219,0750 mm, 69,8500 mm): Linia na Górna opisowa
+[silk_overlap]: Opisy nakładają się
+    Rule: ograniczenia w konfiguracji płytki dla opisów; Severity: warning
+    @(226,6950 mm, 69,8500 mm): Linia na Górna opisowa
+    @(220,3450 mm, 69,8500 mm): Linia na Górna opisowa
+[silk_overlap]: Opisy nakładają się
+    Rule: ograniczenia w konfiguracji płytki dla opisów; Severity: warning
+    @(220,3450 mm, 80,0100 mm): Linia na Górna opisowa
+    @(219,0750 mm, 69,8500 mm): Linia na Górna opisowa
+[silk_overlap]: Opisy nakładają się
+    Rule: ograniczenia w konfiguracji płytki dla opisów; Severity: warning
+    @(220,3450 mm, 80,0100 mm): Linia na Górna opisowa
+    @(220,3450 mm, 69,8500 mm): Linia na Górna opisowa
+[silk_overlap]: Opisy nakładają się
+    Rule: ograniczenia w konfiguracji płytki dla opisów; Severity: warning
+    @(219,0750 mm, 69,8500 mm): Linia na Górna opisowa
+    @(219,0750 mm, 59,6900 mm): Linia na Górna opisowa
+[silk_overlap]: Opisy nakładają się
+    Rule: ograniczenia w konfiguracji płytki dla opisów; Severity: warning
+    @(219,0750 mm, 69,8500 mm): Linia na Górna opisowa
+    @(219,0750 mm, 69,8500 mm): Linia na Górna opisowa
+[silk_overlap]: Opisy nakładają się
+    Rule: ograniczenia w konfiguracji płytki dla opisów; Severity: warning
+    @(219,0750 mm, 110,4900 mm): Linia na Górna opisowa
+    @(219,0750 mm, 100,3300 mm): Linia na Górna opisowa
+[silk_overlap]: Opisy nakładają się
+    Rule: ograniczenia w konfiguracji płytki dla opisów; Severity: warning
+    @(219,0750 mm, 110,4900 mm): Linia na Górna opisowa
+    @(219,0750 mm, 110,4900 mm): Linia na Górna opisowa
+[silk_overlap]: Opisy nakładają się
+    Rule: ograniczenia w konfiguracji płytki dla opisów; Severity: warning
+    @(220,3450 mm, 130,8100 mm): Linia na Górna opisowa
+    @(220,3450 mm, 110,4900 mm): Linia na Górna opisowa
+[silk_overlap]: Opisy nakładają się
+    Rule: ograniczenia w konfiguracji płytki dla opisów; Severity: warning
+    @(220,3450 mm, 130,8100 mm): Linia na Górna opisowa
+    @(219,0750 mm, 110,4900 mm): Linia na Górna opisowa
+[silk_overlap]: Opisy nakładają się
+    Rule: ograniczenia w konfiguracji płytki dla opisów; Severity: warning
+    @(219,0750 mm, 100,3300 mm): Linia na Górna opisowa
+    @(226,6950 mm, 110,4900 mm): Linia na Górna opisowa
+[silk_overlap]: Opisy nakładają się
+    Rule: ograniczenia w konfiguracji płytki dla opisów; Severity: warning
+    @(220,3450 mm, 110,4900 mm): Linia na Górna opisowa
+    @(226,6950 mm, 110,4900 mm): Linia na Górna opisowa
+[silk_overlap]: Opisy nakładają się
+    Rule: ograniczenia w konfiguracji płytki dla opisów; Severity: warning
+    @(226,6950 mm, 110,4900 mm): Linia na Górna opisowa
+    @(226,6950 mm, 110,4900 mm): Linia na Górna opisowa
+[silk_overlap]: Opisy nakładają się
+    Rule: ograniczenia w konfiguracji płytki dla opisów; Severity: warning
+    @(226,6950 mm, 110,4900 mm): Linia na Górna opisowa
+    @(219,0750 mm, 110,4900 mm): Linia na Górna opisowa
+[silk_overlap]: Opisy nakładają się
+    Rule: ograniczenia w konfiguracji płytki dla opisów; Severity: warning
+    @(226,6950 mm, 110,4900 mm): Linia na Górna opisowa
+    @(226,6950 mm, 110,4900 mm): Linia na Górna opisowa
+[silk_overlap]: Opisy nakładają się
+    Rule: ograniczenia w konfiguracji płytki dla opisów; Severity: warning
+    @(226,6950 mm, 110,4900 mm): Linia na Górna opisowa
+    @(219,0750 mm, 110,4900 mm): Linia na Górna opisowa
+[silk_over_copper]: Warstwa opisowa przycięta przez soldermaskę
+    Rule: ograniczenia w konfiguracji płytki dla opisów; Severity: warning
+    @(188,9250 mm, 109,6900 mm): Linia na Górna opisowa
+    @(190,2500 mm, 116,9400 mm): Pole lutownicze z otworem na wylot 1 [Net-(J4-Pad1)] z K1
+[silk_over_copper]: Warstwa opisowa przycięta przez soldermaskę
+    Rule: ograniczenia w konfiguracji płytki dla opisów; Severity: warning
+    @(193,8000 mm, 122,0400 mm): Linia na Górna opisowa
+    @(192,7500 mm, 121,9400 mm): Pole lutownicze z otworem na wylot 2 [Net-(D1-Pad1)] z K1
+[silk_over_copper]: Warstwa opisowa przycięta przez soldermaskę
+    Rule: ograniczenia w konfiguracji płytki dla opisów; Severity: warning
+    @(202,7500 mm, 121,1400 mm): Linia na Górna opisowa
+    @(202,7500 mm, 121,9400 mm): Pole lutownicze z otworem na wylot 3 [Net-(F1-Pad2)] z K1
+[silk_over_copper]: Warstwa opisowa przycięta przez soldermaskę
+    Rule: ograniczenia w konfiguracji płytki dla opisów; Severity: warning
+    @(160,2140 mm, 58,0990 mm): Linia na Górna opisowa
+    @(161,5440 mm, 56,7690 mm): Pole lutownicze z otworem na wylot 1 [Net-(AE1-Pad1)] z J11
+[silk_over_copper]: Warstwa opisowa przycięta przez soldermaskę
+    Rule: ograniczenia w konfiguracji płytki dla opisów; Severity: warning
+    @(160,2140 mm, 58,0390 mm): Linia na Górna opisowa
+    @(161,5440 mm, 56,7690 mm): Pole lutownicze z otworem na wylot 1 [Net-(AE1-Pad1)] z J11
+[silk_over_copper]: Warstwa opisowa przycięta przez soldermaskę
+    Rule: ograniczenia w konfiguracji płytki dla opisów; Severity: warning
+    @(160,2140 mm, 56,7690 mm): Linia na Górna opisowa
+    @(161,5440 mm, 56,7690 mm): Pole lutownicze z otworem na wylot 1 [Net-(AE1-Pad1)] z J11
+[silk_over_copper]: Warstwa opisowa przycięta przez soldermaskę
+    Rule: ograniczenia w konfiguracji płytki dla opisów; Severity: warning
+    @(160,2140 mm, 55,4390 mm): Linia na Górna opisowa
+    @(161,5440 mm, 56,7690 mm): Pole lutownicze z otworem na wylot 1 [Net-(AE1-Pad1)] z J11
+[silk_over_copper]: Warstwa opisowa przycięta przez soldermaskę
+    Rule: ograniczenia w konfiguracji płytki dla opisów; Severity: warning
+    @(174,2600 mm, 83,2250 mm): Oznaczenie 'Q4'
+    @(173,3550 mm, 81,9150 mm): Pole lutownicze 2 [Net-(Q4-Pad1)] z R9 na Górna sygnałowa
+[invalid_outline]: Płytka ma zniekształcony obrys (nie znaleziono krawędzi na warstwie Edge.Cuts)
+    Local override; Severity: error
+    @(0,0000 mm, 0,0000 mm): PCB
+[malformed_courtyard]: Footprint ma zniekształcone pole zajętości (nachodzą na siebie)
+    Local override; Severity: error
+    @(169,9250 mm, 121,7100 mm): Footprint U1
+[malformed_courtyard]: Footprint ma zniekształcone pole zajętości (nachodzą na siebie)
+    Local override; Severity: error
+    @(169,9250 mm, 121,7100 mm): Footprint U1
+[courtyards_overlap]: Pola zajętości zachodzą na siebie
+    Local override; Severity: error
+    @(222,8850 mm, 113,0300 mm): Footprint J4
+    @(222,8850 mm, 102,8700 mm): Footprint J1
+[courtyards_overlap]: Pola zajętości zachodzą na siebie
+    Local override; Severity: error
+    @(215,2650 mm, 80,0100 mm): Footprint K2
+    @(215,2650 mm, 95,8850 mm): Footprint K5
+[courtyards_overlap]: Pola zajętości zachodzą na siebie
+    Local override; Severity: error
+    @(215,2650 mm, 80,0100 mm): Footprint K2
+    @(178,1900 mm, 95,8850 mm): Footprint K4
+[courtyards_overlap]: Pola zajętości zachodzą na siebie
+    Local override; Severity: error
+    @(215,2650 mm, 80,0100 mm): Footprint K2
+    @(178,1900 mm, 80,0100 mm): Footprint K3
+[courtyards_overlap]: Pola zajętości zachodzą na siebie
+    Local override; Severity: error
+    @(222,8850 mm, 92,7100 mm): Footprint J8
+    @(222,8850 mm, 102,8700 mm): Footprint J1
+[courtyards_overlap]: Pola zajętości zachodzą na siebie
+    Local override; Severity: error
+    @(222,8850 mm, 92,7100 mm): Footprint J8
+    @(222,8850 mm, 82,5500 mm): Footprint J9
+[courtyards_overlap]: Pola zajętości zachodzą na siebie
+    Local override; Severity: error
+    @(215,2650 mm, 95,8850 mm): Footprint K5
+    @(178,1900 mm, 95,8850 mm): Footprint K4
+[courtyards_overlap]: Pola zajętości zachodzą na siebie
+    Local override; Severity: error
+    @(215,2650 mm, 95,8850 mm): Footprint K5
+    @(178,1900 mm, 80,0100 mm): Footprint K3
+[courtyards_overlap]: Pola zajętości zachodzą na siebie
+    Local override; Severity: error
+    @(178,1900 mm, 95,8850 mm): Footprint K4
+    @(178,1900 mm, 80,0100 mm): Footprint K3
+[courtyards_overlap]: Pola zajętości zachodzą na siebie
+    Local override; Severity: error
+    @(222,8850 mm, 72,3900 mm): Footprint J3
+    @(222,8850 mm, 62,2300 mm): Footprint J10
+[courtyards_overlap]: Pola zajętości zachodzą na siebie
+    Local override; Severity: error
+    @(222,8850 mm, 72,3900 mm): Footprint J3
+    @(222,8850 mm, 82,5500 mm): Footprint J9
+[clearance]: Naruszenie prześwitu (klasa sieci 'Default' prześwit 0,2000 mm; obecnie 0,0000 mm)
+    Rule: klasa sieci 'Default'; Severity: error
+    @(222,8850 mm, 113,0300 mm): Ścieżka [Net-(J4-Pad1)] na Górna sygnałowa, długość 2,6941 mm
+    @(222,8850 mm, 113,0300 mm): Pole lutownicze z otworem na wylot 1 [Net-(K1-Pad1)] z J4
+[clearance]: Naruszenie prześwitu (klasa sieci 'Default' prześwit 0,2000 mm; obecnie 0,0000 mm)
+    Rule: klasa sieci 'Default'; Severity: error
+    @(220,9800 mm, 111,1250 mm): Ścieżka [Net-(J4-Pad1)] na Górna sygnałowa, długość 21,5900 mm
+    @(222,8850 mm, 113,0300 mm): Pole lutownicze z otworem na wylot 1 [Net-(K1-Pad1)] z J4
+[via_dangling]: Przelotka nie podłączona lub połączona tylko z jednej strony
+    Local override; Severity: warning
+    @(171,9580 mm, 86,2330 mm): Przelotka [GND] na Górna sygnałowa - Dolna sygnałowa
+[track_dangling]: Ścieżka posiada niepołączoną końcówkę
+    Local override; Severity: warning
+    @(154,1650 mm, 115,7100 mm): Ścieżka [RF-Tx] na Górna sygnałowa, długość 0,1980 mm
+[track_dangling]: Ścieżka posiada niepołączoną końcówkę
+    Local override; Severity: warning
+    @(167,6400 mm, 83,8200 mm): Ścieżka [GND] na Dolna sygnałowa, długość 0,0049 mm
+[track_dangling]: Ścieżka posiada niepołączoną końcówkę
+    Local override; Severity: warning
+    @(156,1600 mm, 111,7100 mm): Ścieżka [CON] na Górna sygnałowa, długość 0,0707 mm
+[track_dangling]: Ścieżka posiada niepołączoną końcówkę
+    Local override; Severity: warning
+    @(175,0050 mm, 85,9800 mm): Ścieżka [Net-(D4-Pad1)] na Górna sygnałowa, długość 0,3606 mm
+[track_dangling]: Ścieżka posiada niepołączoną końcówkę
+    Local override; Severity: warning
+    @(167,9650 mm, 57,8000 mm): Ścieżka [GND] na Górna sygnałowa, długość 1,3364 mm
+[track_dangling]: Ścieżka posiada niepołączoną końcówkę
+    Local override; Severity: warning
+    @(192,4050 mm, 85,9950 mm): Ścieżka [Net-(F3-Pad1)] na Dolna sygnałowa, długość 0,0919 mm
+
+** Found 1 unconnected pads **
+[unconnected_items]: Nieprawidłowe połączenie pomiędzy elementami
+    Local override; Severity: error
+    @(175,2350 mm, 67,9450 mm): Pole lutownicze 2 [+3V3] z U2 na Górna sygnałowa
+    @(168,9350 mm, 67,9450 mm): Ścieżka [+3V3] na Górna sygnałowa, długość 1,8800 mm
+
+** Found 0 Footprint errors **
+
+** End of Report **
